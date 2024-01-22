@@ -7,7 +7,7 @@ Tracking the hot Github repos and update daily
 
 ## Usage
 ```shell
-$ git clone https://github.com/shibing624/github-hot.git
+$ git clone https://github.com/Halfknow/Github-Everyday-Trending.git
 $ cd github-hot
 $ pip install -r requirements.txt
 $ python crawler.py
@@ -15,7 +15,7 @@ $ python crawler.py
 
 ### Result
 
-<img src="https://github.com/shibing624/github-hot/blob/main/docs/pic.png" width="860" />
+<img src="https://github.com/Halfknow/Github-Everyday-Trending/blob/main/docs/pic.png" width="860" />
 
 
 ## License
