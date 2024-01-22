@@ -18,14 +18,6 @@ $ python crawler.py
 <img src="https://github.com/shibing624/github-hot/blob/main/docs/pic.png" width="860" />
 
 
-
-## Contact
-
-- Issue(建议)：[![GitHub issues](https://img.shields.io/github/issues/shibing624/github-hot.svg)](https://github.com/shibing624/github-hot/issues)
-- 邮件我：xuming: xuming624@qq.com
-- 微信我：加我*微信号：xuming624*, 进Python-NLP交流群，备注：*姓名-公司名-NLP*
-
-
 ## License
 
 授权协议为 [The Apache License 2.0](LICENSE)，可免费用做商业用途。请在产品说明中附加**github-hot**的链接和授权协议。
